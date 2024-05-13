@@ -1,7 +1,7 @@
 ---
 title: "Today I Learned"
-excerpt: "React App and Supabase  <br/><img src='![today-i-learned](../images/today-i-learned.png)' height='400px' width='400px'>"
-collection: portfolio
+excerpt: "React App and Supabase  <br/><img src='![today-i-learned](../images/today-i-learned.png)' height='400px' width='283px'>"
+collection: projects
 ---
 
 [View Application](http://today-i-learned-facts.s3-website-us-east-1.amazonaws.com)

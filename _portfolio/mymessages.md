@@ -1,7 +1,7 @@
 ---
 title: "MyMessages"
 excerpt: "MEAN Notetaking App<br/><img src='../images/mymessages.png' height='400px' width='400px'>"
-collection: portfolio
+collection: projects
 ---
 
 [View Application](http://mean-mymessage.s3-website-us-east-1.amazonaws.com)

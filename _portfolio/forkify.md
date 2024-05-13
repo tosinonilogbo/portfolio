@@ -1,7 +1,7 @@
 ---
 title: "Forkify"
-excerpt: "JavaScript Application Implementing MVC Architecture<br/><img src='![forkify](../images/forkify.png)' height='400px' width='400px'>"
-collection: portfolio
+excerpt: "JavaScript Application Implementing MVC Architecture<br/><img src='![forkify](../images/forkify.png)' height='400px' width='283px'>"
+collection: projects
 ---
 
 [View Application](https://forkify-recipe-project.netlify.app)
