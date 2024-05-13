@@ -12,7 +12,7 @@ title                    : "Tosin's Homepage"
 title_separator          : "-"
 name                     : &name "Tosin Onilogbo"
 description              : &description "Tosin Onilogbo's Portfolio"
-url                      : https://tosinonilogbo.github.io/portfolio/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tosinonilogbo.github.io/portfolio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tosinonilogbo/portfolio.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "me.JPEG"
   name             : "Oluwatosin(Tosin) Onilogbo"
   pronouns         : # example: "she/her"  
-  bio              : "A full stack developer who has a diverse skillset and is forever learning"
+  bio              : "A full stack developer with a diverse skillset and is forever learning"
   location         : "Dallas, Texas, USA"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -32,10 +32,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -205,7 +205,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
