@@ -1,6 +1,6 @@
 ---
 title: "Forkify"
-excerpt: "JavaScript Application Implementing MVC Architecture<br/><img src='![forkify](../images/forkify.png)' height='400px' width='283px'>"
+excerpt: "JavaScript Application Implementing MVC Architecture<br/><img src='../images/forkify.png' height='400px' width='400px'>"
 collection: projects
 ---
 

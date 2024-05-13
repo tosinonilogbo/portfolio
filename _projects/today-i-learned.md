@@ -1,6 +1,6 @@
 ---
 title: "Today I Learned"
-excerpt: "React App and Supabase  <br/><img src='![today-i-learned](../images/today-i-learned.png)' height='400px' width='283px'>"
+excerpt: "React App and Supabase  <br/><img src='../images/today-i-learned.png' height='400px' width='400px'>"
 collection: projects
 ---
 
